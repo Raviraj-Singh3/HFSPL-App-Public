@@ -1,0 +1,2 @@
+D:/HFSPL-backend-Frontend/HFSPL-App/android/app/.cxx/Debug/2q4h184h/x86_64/CMakeFiles/edit_cache.dir
+D:/HFSPL-backend-Frontend/HFSPL-App/android/app/.cxx/Debug/2q4h184h/x86_64/CMakeFiles/rebuild_cache.dir

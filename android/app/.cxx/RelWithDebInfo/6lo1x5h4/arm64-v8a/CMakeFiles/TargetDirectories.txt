@@ -1,0 +1,2 @@
+D:/HUMANA/HFSPL-App/android/app/.cxx/RelWithDebInfo/6lo1x5h4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/HUMANA/HFSPL-App/android/app/.cxx/RelWithDebInfo/6lo1x5h4/arm64-v8a/CMakeFiles/rebuild_cache.dir
